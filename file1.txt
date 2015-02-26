@@ -1,0 +1,6 @@
+Let 0 = 2
+Let y = 1
+Let z = x + y * y * x
+y = x + z
+print z
+print y + x + y * x
